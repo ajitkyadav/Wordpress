@@ -1,0 +1,14 @@
+/* Top Navigation */
+.main-navigation .main-nav>ul>li.menu-item-has-children>a {font-size:1.2rem; font-weight:bold;}
+/* Breadcrumb */
+div.fbc-page div.fbc-wrap ol.fbc-items {padding:0 0 30px}
+div.fbc-page div.fbc-wrap ol.fbc-items li {padding:0 5px}
+.fbc-page .fbc-wrap .fbc-items li:first-child {padding-left:0}
+/* Post Updated Date */
+.posted-on .updated {display: inline-block;}
+.posted-on .updated + .entry-date {display:none;}
+/* Utility classes */
+.no-horizontal-margin {margin:auto 0}
+.no-vertical-margin {margin:0 auto}
+.no-horizontal-padding {padding:auto 0}
+.no-vertical-padding {padding:0 auto}
