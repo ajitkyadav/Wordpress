@@ -1,0 +1,3 @@
+add_action( 'generate_before_content', function() {
+    echo do_shortcode( '[flexy_breadcrumb]');
+} );
