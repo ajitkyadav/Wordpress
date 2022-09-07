@@ -1,0 +1,6 @@
+add_filter( 'generate_copyright','tu_custom_copyright' );
+function tu_custom_copyright() {
+	?>
+    Copyright © 2022
+	<?php
+}
